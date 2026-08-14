@@ -18,6 +18,8 @@ HTML is used to create the structure of the landing page. CSS is responsible for
 
 The most important feature of this project is its responsive design. CSS media queries automatically adjust the layout according to the user's screen size. Therefore, the website provides a good user experience across computers, tablets, and smartphones.
 
+OUTPUT:-<img width="1687" height="968" alt="Image" src="https://github.com/user-attachments/assets/052125b0-3368-4594-b75f-9992f642ff9a" />
+
 OUTPUT:-
 
 Overall, the Responsive Landing Page is a useful front-end development project that demonstrates knowledge of HTML, CSS, JavaScript, responsive web design, UI design, animations, and user interaction. It can be further improved by adding real images, login functionality, backend integration, database connectivity, payment options, and a working contact form.
